@@ -13,6 +13,9 @@ public class HelloWorld {
 		System.out.println("Incredibles");
 		System.out.println("Lord of the Rings");
 		System.out.println("Chocolate Chip Cookie Dough");
+		System.out.println("Grasshopper Fudge");
+		System.out.println("pistachio. end of story");
+		System.out.println("I like cookies and cream.");
 	}	
 
 }
